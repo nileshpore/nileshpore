@@ -1,18 +1,8 @@
-### Hi there 👋
-
-<!--
-**nileshpore/nileshpore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ![ms-dot-net](https://user-images.githubusercontent.com/8255631/185985706-dd2f0447-6bcb-4e13-b49e-65a8afb695a9.jpg) | ![reactjs](https://user-images.githubusercontent.com/8255631/185985873-282aa184-0d12-4c6d-be6c-0b0871cb4c9b.png)
+### Hi there, I am Nilesh 👋
+---------------------------------------------------------------
+- 🔭 I’m currently working on ✨ C#, .Net Core, ReactJs, Typescript, AWS, Identity Server, Rabbit Message Queue, SQL Server,...etc ✨
+- 🌱 I’m currently learning **Azure**
+- 💬 Ask me about **.Net framework, web technologies, database, I am FullStack developer**
+- 📫 How to reach me: https://in.linkedin.com/in/nileshpore
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
